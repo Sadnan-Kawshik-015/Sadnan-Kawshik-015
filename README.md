@@ -1,7 +1,6 @@
 # Hi there, I'm Sadnan 👋
 
-🚀 **Backend Software Engineer** | Passionate about building scalable microservices and efficient systems.
-💡 Always learning, always building!
+**Backend Software Engineer** with 3 years of experience architecting enterprise-grade solutions. Proven expertise in **Spring Boot**, **microservices**, and **SQL optimization** across government and private sector initiatives. Currently bridging the gap between robust backend systems and **Machine Learning** while building modern full-stack applications.
 
 ---
 
